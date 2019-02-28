@@ -1,0 +1,9 @@
+Date: Nov. 9, 2017
+Note on files in Trying_out_Hyp_Results_Fall2017
+
+These results are found by running try_script_hyp_nov9.m.
+
+This script depends on several functions, try_AlternateMinimums.m, try_argmin_A_Xfix.m, try_CrossValidate.m and
+try_IdentifyDynamics.m.
+
+The above functions were written to allow for extra constraints to be imposed on certain dynamics matrices -- to evaluate the feasibility of certain hypotheses described in (candidate) Plos manuscript.
